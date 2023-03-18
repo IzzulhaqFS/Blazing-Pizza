@@ -24,3 +24,28 @@ Detail Order
 
 4. Validasi input saat checkout
 ![Checkout](https://user-images.githubusercontent.com/57482751/226092144-8ce0a946-e110-4005-a1a1-e6972418d74c.png)
+
+### Progres 2
+
+18 Maret 2023
+
+Setelah mengerjakan sampai session 6, aplikasi Blazing Pizza sudah bisa melakukan:
+1. Authentication menggunakan login dan register
+**Halaman Utama (Sebelum login)**
+![Home-BeforeLogin](https://user-images.githubusercontent.com/57482751/226114672-cdb17892-b0dc-4c67-b866-b02eed75319a.png)
+
+**Halaman Register**
+![Register](https://user-images.githubusercontent.com/57482751/226114684-0abcd5ef-57e8-4f8e-b384-6730c56d2049.png)
+
+**Halaman Login**
+![Login](https://user-images.githubusercontent.com/57482751/226114693-8e26e861-e335-4bd8-87fe-bcf1e9e8d653.png)
+
+**Halaman Utama (Setelah login)**
+![Home-AfterLogin](https://user-images.githubusercontent.com/57482751/226114710-a54bfe09-7f78-4686-8a5d-7e1ff749873e.png)
+
+2. Authorization sehingga untuk melakukan pemesanan pizza harus login terlebih dahulu
+![Authorization](https://user-images.githubusercontent.com/57482751/226115021-978e677d-97a1-4291-8031-e8fa05257ba3.gif)
+
+3. List Order di My Order sudah berdasarkan User
+![MyOrder-Login](https://user-images.githubusercontent.com/57482751/226114998-9bc0d6bc-c00a-479d-a4d3-ddb995175c96.png)
+
