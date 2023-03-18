@@ -1,4 +1,4 @@
-﻿using System.Text.Json.Serialization;
+using System.Text.Json.Serialization;
 
 namespace BlazingPizza;
 
@@ -29,4 +29,5 @@ public class Order
 [JsonSerializable(typeof(List<PizzaSpecial>))]
 [JsonSerializable(typeof(List<Topping>))]
 [JsonSerializable(typeof(Topping))]
+[JsonSerializable(typeof(Dictionary<string, string>))]
 public partial class OrderContext : JsonSerializerContext { }
