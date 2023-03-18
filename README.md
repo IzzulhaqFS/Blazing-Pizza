@@ -1,28 +1,23 @@
-# Blazor - app building workshop
+# Blazing Pizza
+## Penjelasan Aplikasi
+Aplikasi Blazing Pizza adalah aplikasi untuk melakukan pemesanan produk Blazing Pizza. Aplikasi ini memiliki 2 bagian, yakni Client Side dan Server Side. Di Client Side, terdapat beberapa halaman seperti halaman utama yang berisi daftar pizza yang dapat dipesan, checkout, daftar order, dan detail order. 
 
-Welcome to the Blazor app building workshop! 
+Pengguna bisa memilih pizza di halaman utama, kemudian akan tampil sebuah dialog untuk kustomisasi pizza yang akan dipesan. Setelah melakukan kustomisasi, pizza yang dipilih tersebut akan masuk ke daftar belanja. Setelah menekan tombol Order, pengguna akan diarahkan ke halaman checkout untuk mengisi alamat penerima. Setelah itu, pengguna akan diarahkan ke halaman daftar pesanan, di sini pengguna dapat memantau status pesanan atau melihat detail dari pesanan.
 
-Blazor is a single-page app framework for building client-side web apps using .NET and WebAssembly. In this workshop we will build a complete Blazor app and learn about the various Blazor framework features along the way.
+## Dokumentasi Pengerjaan
+### Progres 1 - 18 Maret 2023
+Setelah mengerjakan sampai session 5, aplikasi Blazing Pizza sudah bisa melakukan
+1. Kustomisasi pada pemesanan pizza
+![Customization](https://user-images.githubusercontent.com/57482751/226091931-9f1cb6f8-008b-48b5-89e3-c52decb5017f.png)
 
-![Blazing Pizza](https://user-images.githubusercontent.com/1874516/77244515-c889ce00-6bd2-11ea-9a45-47452c084464.png)
+2. Menampilkan status pemesanan di halaman MyOrder
+![MyOrder-1](https://user-images.githubusercontent.com/57482751/226091966-4367bfd7-0346-4107-b592-6c1fb79a5a0f.png)
 
+Detail Order
+![MyOrder-2](https://user-images.githubusercontent.com/57482751/226092055-c2fb3f15-b163-4cf9-a4f8-5f790f79c0a8.png)
 
-## Getting Started
+3. Memanajemen state sehingga perubahan yang dilakukan pada pesanan pizza tidak hilang ketika berpindah halaman
+![State Management](https://user-images.githubusercontent.com/57482751/226092629-acdd7d12-5240-4330-ad1e-fa484b60f85f.gif)
 
-Go ahead and clone this repo to your machine, then dive in and [get started](/docs/00-get-started.md)!
-
-## Sessions
-
-| Session | Topics |
-| ----- | ---- |
-| [Session #0](/docs/00-get-started.md) | Get bits installed and build your first Blazor app |
-| [Session #1](/docs/01-components-and-layout.md) | Get started with components, create the app layout |
-| [Session #2](/docs/02-customize-a-pizza.md) | Add customized pizzas to orders  |
-| [Session #3](/docs/03-show-order-status.md) | Show order status |
-| [Session #4](/docs/04-refactor-state-management.md) | Refactor state management |
-| [Session #5](/docs/05-checkout-with-validation.md) | Checkout with validation |
-| [Session #6](/docs/06-authentication-and-authorization.md) | Authenticate users and authorize access to order status |
-| [Session #7](/docs/07-javascript-interop.md) | Track order status on a real time map |
-| [Session #8](/docs/08-templated-components.md) | Create and use components with template parameters |
-| [Session #9](/docs/09-progressive-web-app.md) | Progressive Web App (PWA) features |
-| [Session #10](/docs/10-publish-and-deploy.md) | Deploy your app to Azure |
+4. Validasi input saat checkout
+![Checkout](https://user-images.githubusercontent.com/57482751/226092144-8ce0a946-e110-4005-a1a1-e6972418d74c.png)
