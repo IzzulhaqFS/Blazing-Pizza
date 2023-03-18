@@ -5,7 +5,10 @@ Aplikasi Blazing Pizza adalah aplikasi untuk melakukan pemesanan produk Blazing 
 Pengguna bisa memilih pizza di halaman utama, kemudian akan tampil sebuah dialog untuk kustomisasi pizza yang akan dipesan. Setelah melakukan kustomisasi, pizza yang dipilih tersebut akan masuk ke daftar belanja. Setelah menekan tombol Order, pengguna akan diarahkan ke halaman checkout untuk mengisi alamat penerima. Setelah itu, pengguna akan diarahkan ke halaman daftar pesanan, di sini pengguna dapat memantau status pesanan atau melihat detail dari pesanan.
 
 ## Dokumentasi Pengerjaan
-### Progres 1 - 18 Maret 2023
+### Progres 1
+
+18 Maret 2023
+
 Setelah mengerjakan sampai session 5, aplikasi Blazing Pizza sudah bisa melakukan
 1. Kustomisasi pada pemesanan pizza
 ![Customization](https://user-images.githubusercontent.com/57482751/226091931-9f1cb6f8-008b-48b5-89e3-c52decb5017f.png)
