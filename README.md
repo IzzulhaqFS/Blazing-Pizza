@@ -66,6 +66,7 @@ Setelah mengerjakan sampai session 7, aplikasi Blazing Pizza dapat:
 
 Setelah mengerjakan sampai session 9, aplikasi Blazing Pizza dapat:
 1. Menginstall aplikasi Blazing Pizza sehingga bisa dijalankan di luar browser
+
 **Dialog Install Aplikasi**
 ![InstallBlazing](https://user-images.githubusercontent.com/57482751/226167175-4f4580fb-4a96-4ac6-8cc2-08e89b80fd3b.png)
 
