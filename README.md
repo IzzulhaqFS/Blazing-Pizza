@@ -49,3 +49,14 @@ Setelah mengerjakan sampai session 6, aplikasi Blazing Pizza sudah bisa melakuka
 3. List Order di My Order sudah berdasarkan User
 ![MyOrder-Login](https://user-images.githubusercontent.com/57482751/226114998-9bc0d6bc-c00a-479d-a4d3-ddb995175c96.png)
 
+### Progres 3
+
+19 Maret 2023
+
+Setelah mengerjakan sampai session 7, aplikasi Blazing Pizza dapat:
+1. Menampilkan proses pengiriman dalam bentuk map
+![DeliveringMap](https://user-images.githubusercontent.com/57482751/226162073-69f7c77c-98cd-4234-a64a-8d5d3abc61c3.png)
+
+3. Menampilkan dialog konfirmasi ketika pengguna menghapus pizza dari pesanan
+![DeleteConfirmation](https://user-images.githubusercontent.com/57482751/226162079-421c3b47-1309-45e9-a3fa-0edaa706e415.png)
+
